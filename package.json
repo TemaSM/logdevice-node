@@ -1,0 +1,26 @@
+{
+  "name": "logdevice",
+  "version": "0.0.0-0",
+  "description": "LogDevice Node.js client",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemaSM/logdevice-node.git"
+  },
+  "keywords": [
+    "logdevice",
+    "logging",
+    "system",
+    "storage",
+    "distributed",
+    "logs"
+  ],
+  "author": "Tema Smirnov <npm.tema@smirnov.one>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TemaSM/logdevice-node/issues"
+  },
+  "homepage": "https://github.com/TemaSM/logdevice-node"
+}
